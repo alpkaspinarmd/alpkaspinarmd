@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Ismail%20Alp%20&text2=%20OKaşpınar%20🩺&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Ismail%20Alp KASPINAR%20&text2=%20🩺%20&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
 
