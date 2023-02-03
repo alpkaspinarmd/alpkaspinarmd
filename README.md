@@ -3,8 +3,7 @@
 
 
 ### Ben Kimim
-- :computer:Tekirdağ Namık Kemal Tıp Fakültesi 1.Sınıf öğrencisiyim.
-- :computer:YetGen Core Python Programında katılımcıyım
+- :computer:Tekirdağ Namık Kemal Üniversitesi Tıp Fakültesi 1.Sınıf öğrencisiyim.
 - :computer: Kendimi farklı alanlarda geliştirmeye çalışıyorum.
 - :computer: Bana ulaşmak isterseniz **alpkaspinar54@gmail.com** adresini kullanbilirsiniz.
 
