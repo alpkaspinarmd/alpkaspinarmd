@@ -1,15 +1,15 @@
-### Hi there 👋
+### Ben Kimim
+- :computer:Tekirdağ Namık Kemal Tıp Fakültesi 1.Sınıf öğrencisiyim.
+- :computer:YetGen Core Python Programında katılımcıyım
+- :computer: Kendimi farklı alanlarda geliştirmeye çalışıyorum.
+- :computer: Bana ulaşmak isterseniz **alpkaspinar54@gmail.com** adresini kullanbilirsiniz.
 
-<!--
-**alpkaspinarmd/alpkaspinarmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***:computer: DON'T REPEAT YOURSELF(KENDİNİ TEKRAR ETME)***
+<br>
 
-Here are some ideas to get you started:
+***Bölümüm Tıp Falültesi de olsa kendimi tek bir alanla kısıtlamayıp Dünya'ya farklı pencerelerden bakmaya çalışıyorum. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ...
+<p align="center">
+   <img src= "https://gpvc.arturio.dev/alpkaspinarmd" alt="profile views">
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/alpkaspinarmd?label=Followers&style=social">
+   
