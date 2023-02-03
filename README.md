@@ -8,10 +8,10 @@
 - :computer: Kendimi farklı alanlarda geliştirmeye çalışıyorum.
 - :computer: Bana ulaşmak isterseniz **alpkaspinar54@gmail.com** adresini kullanbilirsiniz.
 
-***:computer: YetGen Basic 22'2 programı katılımcısıyım.***
+***:computer: YetGen Basic 22'2 programı ve YetGen Core Python Eğitim programı katılımcısıyım.***
 <br>
 
-***Bölümüm Tıp Falültesi de olsa kendimi tek bir alanla kısıtlamayıp Dünya'ya farklı pencerelerden bakmaya çalışıyorum. 
+***Bölümüm Tıp olsa da kendimi tek bir alanla kısıtlamayıp Dünya'ya farklı pencerelerden bakmaya çalışıyorum. 
 
 <p align="center">
    <img src= "https://gpvc.arturio.dev/alpkaspinarmd" alt="profile views">
