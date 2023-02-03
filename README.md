@@ -8,7 +8,7 @@
 - :computer: Kendimi farklı alanlarda geliştirmeye çalışıyorum.
 - :computer: Bana ulaşmak isterseniz **alpkaspinar54@gmail.com** adresini kullanbilirsiniz.
 
-***:computer: DON'T REPEAT YOURSELF(KENDİNİ TEKRAR ETME)***
+***:computer: YetGen Basic 22'2 programı katılımcısıyım.***
 <br>
 
 ***Bölümüm Tıp Falültesi de olsa kendimi tek bir alanla kısıtlamayıp Dünya'ya farklı pencerelerden bakmaya çalışıyorum. 
